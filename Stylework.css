@@ -176,6 +176,7 @@ body {
   text-align: center;
   display: inline;
   color: rgba(57, 109, 242, 1);
+  margin-left: -100px;
 }
 
 .inner-container2 {
